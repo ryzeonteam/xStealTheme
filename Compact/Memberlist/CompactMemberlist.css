@@ -1,0 +1,67 @@
+#app-mount .membersWrap-2h-GB4 {
+    width: 90px;
+    min-width: unset;
+    transition: var(--membersSpeed) ease
+}
+
+#app-mount .membersWrap-2h-GB4:hover {
+    width: 240px
+}
+
+#app-mount .membersWrap-2h-GB4 .members-1998pB {
+    width: 240px;
+    height: calc(100% + 10px);
+    padding-bottom: 10px
+}
+
+#app-mount .membersWrap-2h-GB4 .members-1998pB:hover .membersGroup-v9BXpm {
+    transform: scale(1);
+    padding: 1% 25%
+}
+
+#app-mount .membersWrap-2h-GB4 .membersGroup-v9BXpm {
+    font-weight: inherit;
+    width: 100px;
+    height: auto;
+    white-space: normal;
+    text-align: center;
+    border-radius: 5px;
+    transition: var(--membersSpeed) ease;
+    transform: scale(.7) translateX(-20%) perspective(1px);
+    box-sizing: content-box;
+    line-height: 14px;
+    margin: 3% 5%;
+    padding: 1% 0;
+}
+
+#app-mount .membersWrap-2h-GB4 .memberInner-2CPc3V {
+    width: 140px;
+    display: none;
+    opacity: 1
+}
+
+#app-mount .membersWrap-2h-GB4:hover .memberInner-2CPc3V {
+    display: block;
+    transition: var(--membersSpeed) ease
+}
+
+#app-mount .membersWrap-2h-GB4 .member-3W1lQa.popout-open .content-OzHfo4,
+#app-mount .membersWrap-2h-GB4 .member-3W1lQa.popout-open:hover .content-OzHfo4 {
+    margin: 0 2px 0 1px;
+    border-radius: 5px
+}
+
+#app-mount .membersWrap-2h-GB4 .member-3W1lQa:hover .content-OzHfo4 {
+    height: 36px;
+    margin: 0 2px 0 2px;
+    padding: 0 0 0 4px;
+    border-radius: 5px
+}
+
+#app-mount .membersWrap-2h-GB4 .member-3W1lQa {
+    margin: 1% 0 2% 10%
+}
+
+#app-mount .membersWrap-2h-GB4 .member-3W1lQa:hover {
+    margin: 1% 0 2% 10%
+}
