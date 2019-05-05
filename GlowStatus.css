@@ -1,0 +1,160 @@
+@keyframes typing {50% {opacity: .4}}
+@media (max-width:1300px) {
+    .container-3gCOGc .friendsTable-133bsv .friendsColumnName-1zBOKm {
+        width: 200px !important
+    }
+}
+#app-mount .membersWrap-2h-GB4 .member-3W1lQa {height: 45px}
+#app-mount .membersWrap-2h-GB4 .members-1998pB .small-5Os1Bb {
+    background-size: 35px;height: 35px;width: 35px
+}
+#app-mount .membersWrap-2h-GB4 .member-3W1lQa:hover .content-OzHfo4 .status-2s6iDp,
+#app-mount .membersWrap-2h-GB4 .member-3W1lQa .content-OzHfo4 .status-2s6iDp {
+    border-color: transparent
+}
+#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp,
+#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2zcSVk {
+    left: 0;right: 0;
+    height: 100% !important;
+    width: 100% !important;
+    background-color: rgba(0, 0, 0, 0.4);
+    animation: typing 1.2s linear infinite
+}
+#app-mount .players-1zg2l8 .status-oxiHuE,
+#app-mount .large-3ChYtB .status-oxiHuE,
+#app-mount .xsmall-3afG_L .status-oxiHuE,
+#app-mount .playersSections-1EnWZ8 .status-oxiHuE,
+#app-mount .activityFeed-1C0EmJ .card-GqTca8 .status-oxiHuE,
+#app-mount .partyMembers-2HCFEF .large-3ChYtB,
+#app-mount .avatar-261BSX .avatarStatus-mmE7bK,
+#app-mount .statusProfile-3ynqtt.status-oxiHuE,
+#app-mount .listRow-hutiT_ .status-oxiHuE,
+#app-mount .card-7JP0BX .status-oxiHuE,
+#app-mount .privateChannels-1nO12o .status-2zcSVk,
+#app-mount .autocompleteRow-2OthDa .status-oxiHuE,
+#app-mount .container-1YxwTf .status-oxiHuE,
+#app-mount .members-1998pB .content-OzHfo4 .status-2s6iDp,
+#app-mount .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp,
+#app-mount .container-2Thooq .status-2kJpnA,
+#app-mount .friend-2PO6ke .status-2CRxKL,
+#app-mount .status-oxiHuE.xxlarge-1R_NA5,
+#app-mount .listingWrapper-329f74 .status-oxiHuE,
+#app-mount .popoutSocialInfo-1qhqSY .status-oxiHuE,
+#app-mount .container-2duXBh .wrapper-2F3Zv8 .status-oxiHuE {
+    width: 100%;height: 100%;right: 0;bottom: 0
+}
+#app-mount .listingWrapper-329f74 .avatarMasked-1s1eiJ,
+#app-mount .popoutSocialInfo-1qhqSY .avatarMasked-1s1eiJ {
+    -webkit-mask-image: none;margin-right: 7px
+}
+#app-mount .avatarMasked-3y6o4j, #app-mount .partyMember-2q4Jxq {-webkit-mask-image: none}
+#app-mount .friendsTable-133bsv .friendsRow-2yicud .large-3ChYtB,
+#app-mount .friendsTable-133bsv .friendsRow-2yicud .avatarSmall-3ACRaI {
+    width: 40px;height: 40px;background-size: 40px
+}
+#app-mount .friendsTable-133bsv .friendsColumnName-1zBOKm {padding-left: 4px}
+#app-mount .friendsTable-133bsv .friendsRow-2yicud .friendsColumnStatus-ZH4ho2 .status-3fQvEa {
+    right: 241px;
+    bottom: 0;
+    height: 40px;
+    width: 40px;
+}
+
+#app-mount .status,
+#app-mount .status-oxiHuE,
+#app-mount .image-33JSyf,
+#app-mount .avatarSmall-3ACRaI,
+#app-mount .inner-1W0Bkn,
+#app-mount .wrapper-2F3Zv8,
+#app-mount .status-2s6iDp,
+#app-mount .statusProfile-3ynqtt,
+#app-mount .partyMembers-2HCFEF,
+#app-mount .partyMemberOverflow-1tfvpb {
+    border-radius: var(--round);
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
+#app-mount .partyMembers-2HCFEF,
+#app-mount .partyMembers-2HCFEF,
+#app-mount .partyMember-2q4Jxq,
+#app-mount .maskProfile-1ObLFT,
+#app-mount .mask-3OgeRz {
+    -webkit-mask: none;mask: none;
+    border-radius: var(--round)
+}
+#app-mount .title-3qD0b- .status-oxiHuE,
+#app-mount .friendsColumnStatus-ZH4ho2 .status-mz5rqq,
+#app-mount .titleCall-_b9o8P .status-oxiHuE {
+    position: relative
+}
+#app-mount .container-2Thooq .status-2kJpnA,
+#app-mount .statusProfile-3ynqtt.status-oxiHuE {
+    pointer-events: none
+}
+#app-mount .pulsingEllipsisItem-32hhWL {opacity: .9}
+#app-mount .privateChannels-1nO12o .pulsingEllipsis-3YiXRF {left: 2px}
+#app-mount .members-1998pB .pulsingEllipsis-3YiXRF {left: 5px}
+#app-mount .status, #app-mount .status-oxiHuE {border: none}
+#app-mount .status-oxiHuE.animate-iYrs3- {transition: none}
+#app-mount .titleText-3X-zRE {overflow: visible}
+
+#app-mount .online-2S838R {
+    background-color: transparent;
+    box-shadow: 0 0 var(--sGlow) var(--online) !important
+}
+#app-mount .streaming-2_dnHe {
+    background-color: transparent;
+    box-shadow: 0 0 var(--sGlow) var(--stream) !important
+}
+#app-mount .dnd-1_xrcq {
+    background-color: transparent;
+    box-shadow: 0 0 var(--sGlow) var(--dnd) !important
+}
+#app-mount .idle-3DEnRT {
+    background-color: transparent;
+    box-shadow: 0 0 var(--sGlow) var(--idle) !important
+}
+#app-mount .invisible-1kp8Z0 {
+    background-color: transparent;
+    box-shadow: 0 0 var(--sGlow) var(--invis) !important
+}
+#app-mount .offline-3qoTek,
+#app-mount .unknown-Ms2zdV {
+    background-color: transparent;
+    box-shadow: 0 0 var(--sGlow) var(--offline) !important
+}
+#app-mount .online-2S838R, 
+#app-mount .streaming-2_dnHe, 
+#app-mount .dnd-1_xrcq, 
+#app-mount .idle-3DEnRT, 
+#app-mount .invisible-1kp8Z0, 
+#app-mount .offline-3qoTek,
+#app-mount .unknown-Ms2zdV {
+    pointer-events:none;
+}
+
+#app-mount .menu-Sp6bN1.alt-3btY0e .online-2S838R,
+#app-mount .headerBar-UHpsPw .online-2S838R {
+    background-color: var(--online)
+}
+#app-mount .menu-Sp6bN1.alt-3btY0e .streaming-2_dnHe,
+#app-mount .headerBar-UHpsPw .streaming-2_dnHe {
+    background-color: var(--stream)
+}
+#app-mount .menu-Sp6bN1.alt-3btY0e .dnd-1_xrcq,
+#app-mount .headerBar-UHpsPw .dnd-1_xrcq {
+    background-color: var(--dnd)
+}
+#app-mount .menu-Sp6bN1.alt-3btY0e .idle-3DEnRT,
+#app-mount .headerBar-UHpsPw .idle-3DEnRT {
+    background-color: var(--idle)
+}
+#app-mount .menu-Sp6bN1.alt-3btY0e .invisible-1kp8Z0,
+#app-mount .headerBar-UHpsPw .invisible-1kp8Z0 {
+    background-color: var(--invis)
+}
+#app-mount .menu-Sp6bN1.alt-3btY0e .offline-3qoTek,
+#app-mount .headerBar-UHpsPw .offline-3qoTek,
+#app-mount .menu-Sp6bN1.alt-3btY0e .unknown-Ms2zdV {
+    background-color: var(--offline)
+}
