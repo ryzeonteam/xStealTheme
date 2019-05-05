@@ -1,0 +1,16 @@
+#app-mount .chat-3bRxxu .containerCozy-jafyvG .avatar-17mtNa .image-33JSyf.large-3ChYtB {
+    background-size: var(--size1) var(--size1);
+    height: var(--size1);width: var(--size1);
+    border-radius:var(--round1);-webkit-mask:none;
+    filter: drop-shadow(var(--shadow1))
+}
+
+#app-mount .chat-3bRxxu .headerCozy-2N9HOL {height: 15px}
+#app-mount .chat-3bRxxu .headerCozyMeta-rdohGq {left:-10px;position:relative}
+#app-mount .chat-3bRxxu .containerCozy-jafyvG {padding: 15px 0}
+#app-mount .chat-3bRxxu .contentCozy-3XX413 {margin-left: calc(30px + var(--size1))}
+#app-mount .chat-3bRxxu .container-1YxwTf {min-height: var(--size1);box-sizing: content-box}
+#app-mount .chat-3bRxxu .containerCompact-3V0ioj {min-height:initial}
+#app-mount .chat-3bRxxu .container-1YxwTf .divider-32i8lo {position:absolute;bottom:15px;width:100%}
+#app-mount .chat-3bRxxu .container-1YxwTf .wrapper-2F3Zv8{left:var(--margin1);top:var(--margin2);width: calc(var(--size1));height: var(--size1)}
+#app-mount .chat-3bRxxu .messagesWrapper-3lZDfY .containerCozyBounded-1rKFAn {padding: var(--compact)}
